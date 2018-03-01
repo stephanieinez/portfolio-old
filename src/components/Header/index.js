@@ -24,15 +24,15 @@ const Header = () => (
             journalist and marketing manager for 6 years in London and Berlin.
             Since finding myself in the exciting world of web development I've
             worked at HelloFresh in Berlin, built websites for small companies
-            in React and contributed on a range of open souce projects. <br />
+            in React and contributed on a range of open source projects. <br />
             <br />
             I am one of the rare web developers that loves, loves, loves CSS! I
             have a passion for making a website not only aesthetically pleasing,
-            but also upkeep a user-centric design. I enjoy working closly with
+            but also upkeep a user-centric design. I enjoy working closely with
             designers to ensure that a website is both beautiful and functional.
             <br />
-            <br />My history in marketing and communications also means that I
-            create websites with the eye of both a customer and business,
+            <br />My background in marketing and communications also means that
+            I create websites with the eye of both a customer and business,
             ensuring that a website is optimised to its full potential.<br />
             <br /> I love travelling and the outdoors, taking the opportunity to
             go exploring at any chance I get. In my spare time I enjoy making

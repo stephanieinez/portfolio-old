@@ -10,7 +10,7 @@ const Home = () => (
       className="project-1"
       contentTitle="Carbon Doomsday"
       contentSubtitle="React/Redux/CSS"
-      contentText="Worked with one other developer to create the frontend prototype for this open source project. I am still one of the main team memebers working on Carbon Doomsday, alongside a small team from around the world."
+      contentText="Worked with one other developer to create the frontend prototype for this open source project. I am still one of the main team members working on Carbon Doomsday, alongside a small team from around the world."
       link="http://carbondoomsday.com/"
     />
     <Project
