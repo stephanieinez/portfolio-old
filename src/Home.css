@@ -1,0 +1,134 @@
+a {
+  text-decoration: none;
+}
+
+.project-1 {
+  position: absolute;
+  top: 100px;
+  left: 20px;
+  width: 500px;
+  height: 300px;
+  background-image: url('/carbon-doomsday.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.project-2 {
+  position: absolute;
+  top: 200px;
+  right: 20px;
+  width: 300px;
+  height: 300px;
+  background-image: url('/menu-npm.gif');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.project-3 {
+  position: absolute;
+  top: 370px;
+  right: 300px;
+  width: 600px;
+  height: 300px;
+  background-image: url('http://www.pausehostel.com/wp-content/uploads/2017/11/Screen-Shot-2017-11-26-at-12.48.12.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.project-4 {
+  position: absolute;
+  top: 640px;
+  left: 20px;
+  width: 700px;
+  height: 200px;
+  background-image: url('http://res.cloudinary.com/dzx1ez426/image/upload/v1494777834/pbl8jgfbfqism1jeztxl.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.project-5 {
+  position: absolute;
+  top: 800px;
+  right: 426px;
+  width: 300px;
+  height: 300px;
+  z-index: 10;
+  background-image: url('https://cdn.hellofresh.com/us/cms/shop/slider/cover-starter-kit-2.jpg');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.project-6 {
+  position: absolute;
+  z-index: 10;
+  padding: 10px;
+  text-align: center;
+  font-family: 'Cutive Mono', monospace;
+  font-size: 18px;
+  top: 1075px;
+  right: 20px;
+  width: 500px;
+  height: 400px;
+  margin-bottom: 40px;
+  background-color: beige;
+}
+
+.project-6 a {
+  color: black;
+  text-decoration: underline;
+}
+
+.project-6 a:hover {
+  color: cyan;
+}
+
+.compliment-generator {
+  width: 100%;
+  padding-top: 20px;
+  height: 200px;
+}
+
+@media (max-width: 800px) {
+  .project-1 {
+    width: 95%;
+    height: 300px;
+    position: initial;
+    margin: 0 10px;
+  }
+  .project-2 {
+    width: 95%;
+    height: 300px;
+    position: initial;
+    margin: 0 10px;
+  }
+  .project-3 {
+    width: 95%;
+    height: 300px;
+    position: initial;
+    margin: 0 10px;
+    background-size: initial;
+  }
+  .project-4 {
+    width: 95%;
+    height: 300px;
+    position: initial;
+    margin: 0 10px;
+  }
+  .project-5 {
+    width: 95%;
+    height: 300px;
+    position: initial;
+    margin: 0 10px;
+  }
+  .project-6 {
+    width: 91.5%;
+    height: 450px;
+    position: initial;
+    padding-bottom: 20px;
+    margin: 0 10px;
+  }
+}
