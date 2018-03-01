@@ -31,7 +31,8 @@ const Home = () => (
       className="project-4"
       contentTitle="Paddyhuiy Illustration"
       contentSubtitle="React/CSS/Contentful"
-      link=""
+      contentText="A portfolio site for an Irish illustrator. I used Contentful as a CMS so he could chop and change the content and images on the site as he pleased."
+      link="http://www.paddhuiy.com/"
     />
     <Project
       className="project-5"
