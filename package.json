@@ -1,6 +1,6 @@
 {
-  "name": "Stephanie Tassone Portfolio",
-  "homepage": "https://stephanieinez.github.io/",
+  "name": "portfolio",
+  "homepage": "https://stephanieinez.github.io/portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
