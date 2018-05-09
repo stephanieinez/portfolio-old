@@ -17,7 +17,7 @@ const Header = () => (
         smallMenuClassName="info-dropdown"
         menu={
           <div className="info-text">
-            Hey there! I'm Steph, a Europe-based* frontend developer from
+            Hey there! I'm Steph, a Barcelona-based frontend developer from
             Australia. I work predominantly in React, Redux and CSS.
             <br />
             <br />Until I found my calling as a developer I worked as a
@@ -47,11 +47,9 @@ const Header = () => (
             Why not drop me a line at{' '}
             <a href="mailto:stephanie.tassone@gmail.com">
               stephanie.tassone@gmail.com
-            </a>? I'd love to hear from you! &#x1f643;
+            </a>? I'd love to hear from you!
             <br />
             <br />
-            *Currently I am travelling and working remotely. I will be based in
-            Barcelona from summer 2018 onwards.
           </div>
         }
       />

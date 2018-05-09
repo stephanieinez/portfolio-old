@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import './Home.css';
 
 import { Footer, Header, Project } from './components';
@@ -30,7 +30,7 @@ const Home = () => (
     <Project
       className="project-4"
       contentTitle="Paddyhuiy Illustration"
-      contentSubtitle="React/CSS/Contentful"
+      contentSubtitle="React/Node/CSS/Contentful"
       contentText="A portfolio site for an Irish illustrator. I used Contentful as a CMS so he could chop and change the content and images on the site as he pleased."
       link="http://www.paddhuiy.com/"
     />
@@ -56,6 +56,7 @@ const Home = () => (
       <object
         type="text/html"
         className="compliment-generator"
+        aria-label="compliment generator"
         data="https://stephanieinez.github.io/compliment-insult-generator/"
       />
     </div>
