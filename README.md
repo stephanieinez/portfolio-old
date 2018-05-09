@@ -8,4 +8,4 @@ I wanted to create a place to show off some of the projects that I have been wor
 
 As I will be adding more content to this site as time goes on, I stuck to React and CSS to keep it simple but dynamic.
 
-_Site is deployed at https://stephanieinez.github.io._
+_Site is deployed at https://stephanieinez.github.io/portfolio._
